@@ -1,6 +1,6 @@
 # riyo_movie_db
 
-A new Flutter project.
+Simple flutter application GridView and HttpClient using https://www.themoviedb.org/ API.
 
 ## Getting Started
 
