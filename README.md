@@ -1,4 +1,4 @@
-# riyo_movie_db
+# movie_db_app
 
 Simple flutter application GridView and HttpClient using https://www.themoviedb.org/ API.
 
